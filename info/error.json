@@ -1,0 +1,5 @@
+{
+  "code": 401001,
+  "message": "The method requires authentication but it was not presented or is invalid.",
+  "type": "Invalid Auth"
+}
